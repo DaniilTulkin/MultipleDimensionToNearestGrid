@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleDimensionToNearestGrid", "MultipleDimensionToNearestGrid.csproj", "{3F24FA4B-BE51-4F15-9A7F-E3C087E72AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F24FA4B-BE51-4F15-9A7F-E3C087E72AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F24FA4B-BE51-4F15-9A7F-E3C087E72AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F24FA4B-BE51-4F15-9A7F-E3C087E72AAA}.Debug|x64.ActiveCfg = Debug|x64
+		{3F24FA4B-BE51-4F15-9A7F-E3C087E72AAA}.Debug|x64.Build.0 = Debug|x64
+		{3F24FA4B-BE51-4F15-9A7F-E3C087E72AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F24FA4B-BE51-4F15-9A7F-E3C087E72AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F24FA4B-BE51-4F15-9A7F-E3C087E72AAA}.Release|x64.ActiveCfg = Release|x64
+		{3F24FA4B-BE51-4F15-9A7F-E3C087E72AAA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCF0504B-ADFE-43AE-9EEB-03A41474F533}
+	EndGlobalSection
+EndGlobal
